@@ -1,0 +1,4 @@
+railssh
+=======
+
+rails installation script
