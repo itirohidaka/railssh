@@ -1,7 +1,7 @@
 #!/bin/bash
 #=======================================================================
 # Arquivo: rails.sh
-# This is more of a set of tips than a tested script, but I used Ubuntu Server 14.04
+# Rails Instalation script for Ubuntu Server 14.04
 #=======================================================================
 
 #=======================================================================
